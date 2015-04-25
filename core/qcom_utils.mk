@@ -1,3 +1,6 @@
+# Supported board platforms
+QCOM_BOARD_PLATFORMS += msm8974
+
 # vars for use by utils
 empty :=
 space := $(empty) $(empty)
